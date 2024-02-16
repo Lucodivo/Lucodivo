@@ -47,6 +47,17 @@
       </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Lucodivo/NoopScenes"><b>NoopScenes</b><br><i><small>Vulkan renderer study</small></i></a></td>
+      <td>
+        Windows<br>
+        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopScenes?style=plastic">
+      </td>
+      <td>OpenGL • GLSL • GLTF • Dear ImGui • JSON • GLFW</td>
+      <td>
+        <a href="https://github.com/Lucodivo/NoopScenes/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/NoopScenes?logo=github&amp;label=%20&amp;color=grey"></a>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Lucodivo/RayTracingInAWeekend"><b>Ray Tracing In A Weekend</b><br><i><small>Implementation of Peter Shirley's famous article</small></i></a></td>
       <td>
         Windows<br>
@@ -76,6 +87,17 @@
       <td>kotlin.test</td>
       <td>
         <a href="https://jitpack.io/#lucodivo/NoopMathKt"><img alt="Download" src="https://jitpack.io/v/lucodivo/NoopMathKt.svg"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lucodivo/noopmath"><b>NoopMath</b><br><i><small>Matrix math for use with OpenGL</small></i></a></td>
+      <td>
+        C++<br>
+        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/noopmath?style=plastic">
+      </td>
+      <td>gtest</td>
+      <td>
+        <a href="https://github.com/Lucodivo/noopmath/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/noopmath?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
     </tr>
   </tbody>
