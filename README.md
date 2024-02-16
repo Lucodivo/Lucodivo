@@ -47,7 +47,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Lucodivo/NoopScenes"><b>NoopScenes</b><br><i><small>Vulkan renderer study</small></i></a></td>
+      <td><a href="https://github.com/Lucodivo/NoopScenes"><b>NoopScenes</b><br><i><small>Seamless 3D portals without use of methods</small></i></a></td>
       <td>
         Windows<br>
         <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopScenes?style=plastic">
@@ -79,7 +79,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Lucodivo/NoopMathKt"><b>NoopMathKt</b><br><i><small>Matrix math for use with OpenGL</small></i></a></td>
+      <td><a href="https://github.com/Lucodivo/NoopMathKt"><b>NoopMathKt</b><br><i><small>Matrix math for use with OpenGL in Kotlin</small></i></a></td>
       <td>
         Kotlin<br>
         <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopMathKt?style=plastic">
@@ -90,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Lucodivo/noopmath"><b>NoopMath</b><br><i><small>Matrix math for use with OpenGL</small></i></a></td>
+      <td><a href="https://github.com/Lucodivo/noopmath"><b>NoopMath</b><br><i><small>Matrix math for use with OpenGL in C/C++</small></i></a></td>
       <td>
         C++<br>
         <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/noopmath?style=plastic">
