@@ -4,7 +4,7 @@
 <table style="text-align:center;">
   <thead style="font-size: larger; background-color: #FFFFFF11;">
     <tr>
-      <th><b>Applcations</b></th>
+      <th><b>Application</b></th>
       <th><b>Platform</b></th>
       <th><b>Tech</b></th>
       <th><b>🔗</b></th>
@@ -19,8 +19,9 @@
       </td>
       <td>OpenGL • GLSL • Compose • DataStore • Compressonator • NDK • MvRx • Navigation • Crashlytics • Hilt</td>
       <td>
-        <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://play-lh.googleusercontent.com/u2xaH2aTKSnzfctYZaKq2kp4__xYSjfuL_VzJwF4IenBUsQeJe9ZQIyCKgF_6VAIuA=s48"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/OpenGLScenes/Android/logo/logo-color-48x48.png"></a><br>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://img.shields.io/badge/Google%20Play-%20?logo=googleplay&amp;color=grey"></a>
+        <a href="https://github.com/Lucodivo/Scenes/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/Scenes?logo=github&amp;label=%20&amp;color=grey"></a><br>
       </td>
     </tr>
     <tr>
@@ -34,10 +35,32 @@
         <a href="https://github.com/Lucodivo/OpenGLPlayground/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/OpenGLPlayground?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Lucodivo/VkStudy"><b>VkStudy</b><br><i><small>Vulkan renderer study</small></i></a></td>
+      <td>
+        Windows<br>
+        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/VkStudy?style=plastic">
+      </td>
+      <td>Vulkan • GLSL • SPIRV • Dear ImGui • LZ4 • SDL2</td>
+      <td>
+        <a href="https://github.com/Lucodivo/VkStudy/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/VkStudy?logo=github&amp;label=%20&amp;color=grey"></a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lucodivo/RayTracingInAWeekend"><b>Ray Tracing In A Weekend</b><br><i><small>Implementation of Peter Shirley's famous article</small></i></a></td>
+      <td>
+        Windows<br>
+        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/RayTracingInAWeekend?style=plastic">
+      </td>
+      <td>Software Rendering • Ray-Tracing</td>
+      <td>
+        <a href="https://github.com/Lucodivo/RayTracingInAWeekend/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/RayTracingInAWeekend?logo=github&amp;label=%20&amp;color=grey"></a>
+      </td>
+    </tr>
   </tbody>
   <thead style="font-size: larger; background-color: #FFFFFF11;">
     <tr>
-      <th><b>Libraries</b></th>
+      <th><b>Library</b></th>
       <th><b>Platform</b></th>
       <th><b>Tech</b></th>
       <th><b>🔗</b></th>
