@@ -15,7 +15,7 @@
       <td><a href="https://github.com/Lucodivo/ScenesMobile"><b>Scenes</b><br><i><small>Mobile graphics toy</small></i></a></td>
       <td>
         Android<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/ScenesMobile?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/ScenesMobile?style=plastic"></a>
       </td>
       <td>OpenGL • GLSL • Compose • DataStore • Compressonator • NDK • MvRx • Navigation • Crashlytics • Hilt</td>
       <td>
@@ -28,7 +28,7 @@
       <td><a href="https://github.com/Lucodivo/OpenGLPlayground"><b>OpenGL Playground</b><br><i><small>Varied OpenGL rendering techniques</small></i></a></td>
       <td>
         Windows<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/OpenGLPlayground?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/OpenGLPlayground?style=plastic"></a>
       </td>
       <td>OpenGL ES • GLSL • Dear ImGui • GLM • GLFW</td>
       <td>
@@ -39,7 +39,7 @@
       <td><a href="https://github.com/Lucodivo/VkStudy"><b>VkStudy</b><br><i><small>Vulkan renderer study</small></i></a></td>
       <td>
         Windows<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/VkStudy?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/VkStudy?style=plastic"></a>
       </td>
       <td>Vulkan • GLSL • SPIRV • Dear ImGui • LZ4 • SDL2</td>
       <td>
@@ -50,7 +50,7 @@
       <td><a href="https://github.com/Lucodivo/NoopScenes"><b>NoopScenes</b><br><i><small>Seamless 3D portals without use of methods</small></i></a></td>
       <td>
         Windows<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopScenes?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopScenes?style=plastic"></a>
       </td>
       <td>OpenGL • GLSL • GLTF • Dear ImGui • JSON • GLFW</td>
       <td>
@@ -61,7 +61,7 @@
       <td><a href="https://github.com/Lucodivo/RayTracingInAWeekend"><b>Ray Tracing In A Weekend</b><br><i><small>Implementation of Peter Shirley's famous article</small></i></a></td>
       <td>
         Windows<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/RayTracingInAWeekend?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/RayTracingInAWeekend?style=plastic"></a>
       </td>
       <td>Software Rendering • Ray-Tracing</td>
       <td>
@@ -82,7 +82,7 @@
       <td><a href="https://github.com/Lucodivo/NoopMathKt"><b>NoopMathKt</b><br><i><small>Matrix math for use with OpenGL in Kotlin</small></i></a></td>
       <td>
         Kotlin<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopMathKt?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopMathKt?style=plastic"></a>
       </td>
       <td>kotlin.test</td>
       <td>
@@ -93,7 +93,7 @@
       <td><a href="https://github.com/Lucodivo/noopmath"><b>NoopMath</b><br><i><small>Matrix math for use with OpenGL in C/C++</small></i></a></td>
       <td>
         C++<br>
-        <img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/noopmath?style=plastic">
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/noopmath?style=plastic"></a>
       </td>
       <td>gtest</td>
       <td>
