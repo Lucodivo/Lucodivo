@@ -68,6 +68,16 @@
         <a href="https://github.com/Lucodivo/RayTracingInAWeekend/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/RayTracingInAWeekend?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Lucodivo/Lucodivo"><b>Personal Website</b></a></td>
+      <td>
+        Browser
+      </td>
+      <td>HTML • CSS</td>
+      <td>
+        <a href="https://lucodivo.github.io"><img src="https://img.shields.io/badge/🌐_website-505050"></a>
+      </td>
+    </tr>
   </tbody>
   <thead style="font-size: larger; background-color: #FFFFFF11;">
     <tr>
