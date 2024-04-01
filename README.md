@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Lucodivo/Lucodivo"><b>Personal Website</b></a></td>
+      <td><a href="https://github.com/Lucodivo/Lucodivo.github.io"><b>Personal Website</b></a></td>
       <td>
         Browser
       </td>
