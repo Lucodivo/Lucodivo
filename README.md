@@ -12,16 +12,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Lucodivo/ScenesMobile"><b>Scenes</b><br><i><small>Mobile graphics toy</small></i></a></td>
+      <td><a href="https://github.com/Lucodivo/Eccohedra"><b>Eccohedra</b><br><i><small>Interactive 3D/2D scenes for Android</small></i></a></td>
       <td>
         Android<br>
-        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/ScenesMobile?style=plastic"></a>
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/Eccohedra?style=plastic"></a>
       </td>
       <td>OpenGL • GLSL • Compose • DataStore • Compressonator • NDK • MvRx • Navigation • Crashlytics • Hilt</td>
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/OpenGLScenes/Android/logo/logo-color-48x48.png"></a><br>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://img.shields.io/badge/Google%20Play-%20?logo=googleplay&amp;color=grey"></a>
-        <a href="https://github.com/Lucodivo/Scenes/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/Scenes?logo=github&amp;label=%20&amp;color=grey"></a><br>
+        <a href="https://github.com/Lucodivo/Eccohedra/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/Eccohedra?logo=github&amp;label=%20&amp;color=grey"></a><br>
       </td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Lucodivo/Lucodivo"><b>Personal Website</b></a></td>
+      <td><a href="https://github.com/Lucodivo/Lucodivo.github.io"><b>Personal Website</b></a></td>
       <td>
         Browser
       </td>
