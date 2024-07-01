@@ -12,6 +12,19 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Lucodivo/Merlinsbag"><b>Merlinsbag</b><br><i><small>Virtualize your wardrobe</small></i></a></td>
+      <td>
+        Android<br>
+        <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/Merlinsbag?style=plastic"></a>
+      </td>
+      <td>ML Kit • Room • Compose • Crashlytics • Hilt • Kotlin Flow</td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.merlinsbag"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/Merlinsbag/logo/merlinsbag_logo_48x48_rounded.png"></a><br>
+        <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.merlinsbag"><img alt="Download" src="https://img.shields.io/badge/Google%20Play-%20?logo=googleplay&amp;color=grey"></a>
+        <a href="https://github.com/Lucodivo/Merlinsbag/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/Merlinsbag?logo=github&amp;label=%20&amp;color=grey"></a><br>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Lucodivo/Eccohedra"><b>Eccohedra</b><br><i><small>Interactive 3D/2D scenes for Android</small></i></a></td>
       <td>
         Android<br>
@@ -19,7 +32,7 @@
       </td>
       <td>OpenGL • GLSL • Compose • DataStore • Compressonator • NDK • MvRx • Navigation • Crashlytics • Hilt</td>
       <td>
-        <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/OpenGLScenes/Android/logo/logo-color-48x48.png"></a><br>
+        <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/OpenGLScenes/Android/logo/logo-color-48x48-rounded.png"></a><br>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://img.shields.io/badge/Google%20Play-%20?logo=googleplay&amp;color=grey"></a>
         <a href="https://github.com/Lucodivo/Eccohedra/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/Eccohedra?logo=github&amp;label=%20&amp;color=grey"></a><br>
       </td>
