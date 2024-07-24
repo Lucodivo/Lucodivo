@@ -17,7 +17,7 @@
         Android<br>
         <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/Merlinsbag?style=plastic"></a>
       </td>
-      <td>ML Kit • Room • Compose • Crashlytics • Hilt • Kotlin Flow</td>
+      <td>Jetpack&nbsp;Compose&nbsp;• Compose&nbsp;Navigation&nbsp;• Compose&nbsp;Animations&nbsp;• Material&nbsp;Design&nbsp;• ML&nbsp;Kit&nbsp;• Room&nbsp;Persistence&nbsp;Library&nbsp;• SQLite&nbsp;• Proto&nbsp;DataStore&nbsp;• Protocol&nbsp;Buffers&nbsp;• Hilt&nbsp;• Kotlin&nbsp;Flow&nbsp;• Kotlin&nbsp;Coroutines&nbsp;• MVVM&nbsp;Architecture&nbsp;• Crashlytics&nbsp;• JUnit&nbsp;• Robolectric</td>
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.merlinsbag"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/Merlinsbag/logo/merlinsbag_logo_48x48_rounded.png"></a><br>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.merlinsbag"><img alt="Download" src="https://img.shields.io/badge/Google%20Play-%20?logo=googleplay&amp;color=grey"></a>
@@ -30,7 +30,7 @@
         Android<br>
         <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/Eccohedra?style=plastic"></a>
       </td>
-      <td>OpenGL • GLSL • Compose • DataStore • Compressonator • NDK • MvRx • Navigation • Crashlytics • Hilt</td>
+      <td>OpenGL&nbsp;• GLSL&nbsp;• Compose&nbsp;• DataStore&nbsp;• Compressonator&nbsp;• NDK&nbsp;• MvRx&nbsp;• Navigation&nbsp;• Crashlytics&nbsp;• Hilt</td>
       <td>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://raw.githubusercontent.com/Lucodivo/RepoSampleImages/master/OpenGLScenes/Android/logo/logo-color-48x48-rounded.png"></a><br>
         <a href="https://play.google.com/store/apps/details?id=com.inasweaterpoorlyknit.learnopengl_androidport"><img alt="Download" src="https://img.shields.io/badge/Google%20Play-%20?logo=googleplay&amp;color=grey"></a>
@@ -43,7 +43,7 @@
         Windows<br>
         <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/OpenGLPlayground?style=plastic"></a>
       </td>
-      <td>OpenGL ES • GLSL • Dear ImGui • GLM • GLFW</td>
+      <td>OpenGL&nbsp;ES&nbsp;• GLSL&nbsp;• Dear&nbsp;ImGui&nbsp;• GLM&nbsp;• GLFW</td>
       <td>
         <a href="https://github.com/Lucodivo/OpenGLPlayground/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/OpenGLPlayground?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
@@ -54,7 +54,7 @@
         Windows<br>
         <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/VkStudy?style=plastic"></a>
       </td>
-      <td>Vulkan • GLSL • SPIRV • Dear ImGui • LZ4 • SDL2</td>
+      <td>Vulkan&nbsp;• GLSL&nbsp;• SPIRV&nbsp;• Dear&nbsp;ImGui&nbsp;• LZ4&nbsp;• SDL2</td>
       <td>
         <a href="https://github.com/Lucodivo/VkStudy/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/VkStudy?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
@@ -65,7 +65,7 @@
         Windows<br>
         <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/NoopScenes?style=plastic"></a>
       </td>
-      <td>OpenGL • GLSL • GLTF • Dear ImGui • JSON • GLFW</td>
+      <td>OpenGL&nbsp;• GLSL&nbsp;• GLTF&nbsp;• Dear&nbsp;ImGui&nbsp;• JSON&nbsp;• GLFW</td>
       <td>
         <a href="https://github.com/Lucodivo/NoopScenes/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/NoopScenes?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
@@ -76,7 +76,7 @@
         Windows<br>
         <a href="#"><img alt="Top Language" src="https://img.shields.io/github/languages/top/Lucodivo/RayTracingInAWeekend?style=plastic"></a>
       </td>
-      <td>Software Rendering • Ray-Tracing</td>
+      <td>Software&nbsp;Rendering&nbsp;• Ray&nbsp;Tracing</td>
       <td>
         <a href="https://github.com/Lucodivo/RayTracingInAWeekend/releases"><img alt="Download" src="https://img.shields.io/github/v/release/Lucodivo/RayTracingInAWeekend?logo=github&amp;label=%20&amp;color=grey"></a>
       </td>
@@ -86,7 +86,7 @@
       <td>
         Browser
       </td>
-      <td>HTML • CSS</td>
+      <td>HTML&nbsp;• CSS</td>
       <td>
         <a href="https://lucodivo.github.io"><img src="https://img.shields.io/badge/🌐_website-505050"></a>
       </td>
